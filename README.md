@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/logo.svg" />
+    <img alt="Happy" title="Happy" src="https://github.com/rocketseat-education/nlw-03-omnistack/raw/master/.github/logo.svg" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src="https://github.com/rocketseat-education/nlw-03-omnistack/raw/master/.github/happy.png" width="100%">
 </p>
 
 ## 🚀 Technology
@@ -51,8 +51,7 @@ In the links below you will find the layout of the web and mobile project. Remem
 - Locate the institutions registered on the map.
 
 
-## :wrench:
-To install and run the backend project:
+## :wrench: To install and run the backend project
 
 ```bash
 # clone the project:
@@ -65,8 +64,7 @@ $ yarn
 $ yarn dev
 ```
 
-## :computer:
-Para instalar e rodar o projeto frontend
+## :computer: To install and run the frontend project
 
 ```bash
 # In the web folder, run the command below to install the project's dependencies:
@@ -76,8 +74,8 @@ $ yarn ou npm install
 $ yarn android
 ```
 
-## :iphone:
-To install and run the mobile project. you can run the project directly on your Android/iPhone device, or on the PC emulator.
+## :iphone: To install and run the mobile project
+You can run the project directly on your Android/iPhone device, or on the PC emulator.
 
 To run the project directly on your phone you need to have the expo app installed, download it from your device's app store.
 
@@ -91,6 +89,6 @@ $ yarn start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE] file (LICENSE.md) for more details.
+This project is under the MIT license. See the [LICENSE] (LICENSE.md) for more details.
 
 ---
