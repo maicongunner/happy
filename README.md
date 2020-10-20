@@ -89,6 +89,6 @@ $ yarn start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE] (https://github.com/maicongunner/happy/blob/main/README.md) for more details.
+This project is under the MIT license.
 
 ---
